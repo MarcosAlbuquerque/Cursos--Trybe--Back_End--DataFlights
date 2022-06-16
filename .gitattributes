@@ -1,1 +1,3 @@
-*.sh linguist-vendored
+* linguist-vendored
+
+challenges/* linguist-vendored=false
